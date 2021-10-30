@@ -1,0 +1,9 @@
+.background {
+  position: fixed;
+  background: hsl(195deg, 20%, 86%);
+  bottom: 0px;
+  top: 60%;
+  left: 0;
+  right: 0;
+}
+
